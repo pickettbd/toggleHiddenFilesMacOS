@@ -1,3 +1,5 @@
+This was originally created before a convenient shortcut existed for this in finder (command-shift-period).
+
 This is a macOS workflow for toggling hidden files in terminal. You should be able to set a keyboard shortcut to use it easily. Alternately, you can go to Finder -> Services -> Toggle Hidden Files.
 
 Please see the LICENSE file.
